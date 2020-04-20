@@ -1,6 +1,32 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>close</entry>
+        <entry>^</entry>
+        <entry encoding="base64">XDxsb2dfcmVxdWVzdFw+</entry>
+        <entry>row</entry>
+      </history-search>
+      <history-cmd>
+        <entry>.,$ s/^/tab/</entry>
+        <entry>.,$ s/^/tab/    /</entry>
+        <entry>.,$ s/^/tab//</entry>
+        <entry>.,$ s/^/tab/   /</entry>
+        <entry>.,$ s/^/    /</entry>
+        <entry>,'a s/^/    /</entry>
+        <entry>.,'a s/^/    /</entry>
+        <entry>.,'a s/^/#/</entry>
+        <entry>.,'a s/row/row_in_log/</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
@@ -9,7 +35,200 @@
         <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/WebAppExample/templates/results.html" timestamp="1586205997611">
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1585948084751">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/LearningBasics/byasic-if-else.py" timestamp="1585775931988">
+        <mark key="[" line="25" column="5" />
+        <mark key="]" line="25" column="5" />
+        <mark key="." line="25" column="5" />
+        <mark key="^" line="25" column="3" />
+      </file>
+      <file name="/Python Console" timestamp="1586206223523">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1586465831557">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/LearningBasics/Tuple.py" timestamp="1585938383371">
+        <mark key="y" line="7" column="0" />
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="15" column="19" />
+        <mark key="." line="15" column="19" />
+        <mark key="^" line="15" column="19" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/LearningBasics/DictionaryExample.py" timestamp="1585938902207">
+        <mark key="[" line="39" column="24" />
+        <mark key="]" line="39" column="21" />
+        <mark key="^" line="39" column="21" />
+        <mark key="." line="39" column="21" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/WebAppExample/vsearch.py" timestamp="1586181680776">
+        <mark key="'" line="1" column="7" />
+        <mark key="j" line="1" column="4" />
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="5" column="3" />
+        <mark key="m" line="1" column="4" />
+        <mark key="^" line="5" column="3" />
+        <mark key="." line="5" column="3" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/WebAppExample/results.html" timestamp="1586204093902">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="11" column="13" />
+        <mark key="^" line="11" column="13" />
+        <mark key="." line="11" column="13" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/WebAppExample/hello_flask.py" timestamp="1586197109217">
+        <mark key="'" line="13" column="53" />
+        <mark key="[" line="18" column="58" />
+        <mark key="]" line="18" column="59" />
+        <mark key="^" line="18" column="76" />
+        <mark key="." line="18" column="59" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/LearningBasics/LIstExample.py" timestamp="1585934885755">
+        <mark key="[" line="25" column="15" />
+        <mark key="]" line="25" column="20" />
+        <mark key="." line="25" column="20" />
+        <mark key="^" line="25" column="20" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/WebAppExample/entry.html" timestamp="1586203984619">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="43" />
+        <mark key="^" line="9" column="43" />
+        <mark key="." line="9" column="43" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/LearningBasics/Functions.py" timestamp="1585947445883">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="6" column="17" />
+        <mark key="^" line="6" column="17" />
+        <mark key="." line="6" column="17" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/WebAppExample/setup.py" timestamp="1586185183194">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4web.py" timestamp="1586468163673">
+        <mark key="a" line="75" column="1" />
+        <mark key="'" line="70" column="1" />
+        <mark key="[" line="64" column="65" />
+        <mark key="]" line="64" column="71" />
+        <mark key="^" line="64" column="71" />
+        <mark key="." line="64" column="71" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/LearningBasics/SetExample.py" timestamp="1585860586192">
+        <mark key="[" line="31" column="12" />
+        <mark key="]" line="26" column="22" />
+        <mark key="." line="26" column="22" />
+        <mark key="^" line="26" column="22" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/LearningBasics/Classes.py" timestamp="1585947582249">
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="17" />
+        <mark key="^" line="19" column="25" />
+        <mark key="." line="17" column="17" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/WebAppExample/templates/viewlog.html" timestamp="1586378691610">
+        <mark key="a" line="14" column="7" />
+        <mark key="'" line="10" column="7" />
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="7" />
+        <mark key="." line="7" column="7" />
+        <mark key="^" line="7" column="7" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="1" column="7" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch.py" />
+      <jump line="13" column="53" filename="$USER_HOME$/PycharmProjects/WebAppExample/hello_flask.py" />
+      <jump line="4" column="3" filename="$USER_HOME$/PycharmProjects/WebAppExample/templates/viewlog.html" />
+      <jump line="10" column="7" filename="$USER_HOME$/PycharmProjects/WebAppExample/templates/viewlog.html" />
+      <jump line="22" column="7" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4web.py" />
+      <jump line="23" column="32" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4web.py" />
+      <jump line="13" column="12" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4web.py" />
+      <jump line="37" column="6" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4web.py" />
+      <jump line="121" column="4" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4web.py" />
+      <jump line="123" column="11" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4web.py" />
+      <jump line="124" column="9" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4web.py" />
+      <jump line="36" column="8" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4web.py" />
+      <jump line="120" column="0" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4web.py" />
+      <jump line="42" column="4" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4web.py" />
+      <jump line="70" column="1" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4web.py" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text>User Agent</text>
+      </register>
+      <register name="-" type="4">
+        <text>User Agent</text>
+      </register>
+      <register name="/" type="4">
+        <text>row</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHJldHVybiByZW5kZXJfdGVtcGxhdGUoJ3ZpZXdsb2cuaHRtbCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoZV90aXRsZT0nVmlldyBMb2cnLAogICAgICAgICAgICAgICAgICAgICAgICAgICB0aGVfcm93X3RpdGxlcz10aXRsZXMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoZV9kYXRhPWNvbnRlbnQpCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjb250ZW50Wy0xXS5hcHBlbmQocm93LnRzKQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgZmkK</text>
+      </register>
+      <register name="3" type="2">
+        <text>_SQL = &quot;&quot;&quot;insert into log
+(phrase, letters, ip, browser_string, results)
+values
+(%s, %s, %s, %s, %s)&quot;&quot;&quot;</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">I2Nvbm4gPSBweW9kYmMuY29ubmVjdCgqKmRiY29uZmlnKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">J2RhdGFiYXNlJzogJ3ZzZWFyY2hsb2dEQicsIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">J3Bhc3N3b3JkJzogJ3ZzZWFyY2hwYXNzd2QnLAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">J3Bhc3N3b3JkJzogJ3ZzZWFyY2hwYXNzd2QnLAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Y29ubiA9IHB5b2RiYy5jb25uZWN0KAo=</text>
+      </register>
+      <register name="9" type="4">
+        <text>'host': '127.0.0.1',
+'user': 'vsearch',</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>row</last-search>
+      <last-offset />
+      <last-pattern>row</last-pattern>
+      <last-replace>row_in_log</last-replace>
+      <last-substitute>row</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
