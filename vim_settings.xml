@@ -82,6 +82,12 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="3" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/WebAppExample/checker.py" timestamp="1587569079177">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/WebAppExample/results.html" timestamp="1586204093902">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="11" column="13" />
@@ -168,8 +174,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>User Agent</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>User Agent</text>
@@ -181,35 +187,34 @@
         <text encoding="base64">ICAgIHJldHVybiByZW5kZXJfdGVtcGxhdGUoJ3ZpZXdsb2cuaHRtbCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoZV90aXRsZT0nVmlldyBMb2cnLAogICAgICAgICAgICAgICAgICAgICAgICAgICB0aGVfcm93X3RpdGxlcz10aXRsZXMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoZV9kYXRhPWNvbnRlbnQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50Wy0xXS5hcHBlbmQocm93LnRzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgZmkK</text>
+        <text encoding="base64">ICAgICAgICBjb250ZW50Wy0xXS5hcHBlbmQocm93LnRzKQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgZmkK</text>
+      </register>
+      <register name="4" type="2">
         <text>_SQL = &quot;&quot;&quot;insert into log
 (phrase, letters, ip, browser_string, results)
 values
 (%s, %s, %s, %s, %s)&quot;&quot;&quot;</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">I2Nvbm4gPSBweW9kYmMuY29ubmVjdCgqKmRiY29uZmlnKQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">J2RhdGFiYXNlJzogJ3ZzZWFyY2hsb2dEQicsIH0K</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">J3Bhc3N3b3JkJzogJ3ZzZWFyY2hwYXNzd2QnLAo=</text>
+        <text encoding="base64">J2RhdGFiYXNlJzogJ3ZzZWFyY2hsb2dEQicsIH0K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">J3Bhc3N3b3JkJzogJ3ZzZWFyY2hwYXNzd2QnLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29ubiA9IHB5b2RiYy5jb25uZWN0KAo=</text>
+        <text encoding="base64">J3Bhc3N3b3JkJzogJ3ZzZWFyY2hwYXNzd2QnLAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>'host': '127.0.0.1',
-'user': 'vsearch',</text>
+      <register name="9" type="2">
+        <text encoding="base64">Y29ubiA9IHB5b2RiYy5jb25uZWN0KAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
