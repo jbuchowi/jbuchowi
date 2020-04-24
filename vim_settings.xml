@@ -6,13 +6,13 @@
     <history>
       <history-search>
         <entry>close</entry>
-        <entry>^</entry>
         <entry encoding="base64">XDxsb2dfcmVxdWVzdFw+</entry>
         <entry>row</entry>
         <entry encoding="base64">XDwoXD4=</entry>
         <entry>view</entry>
         <entry encoding="base64">XDxsb2dnZWRfaW5cPg==</entry>
         <entry>logged_in</entry>
+        <entry>^</entry>
       </history-search>
       <history-cmd>
         <entry>.,$ s/^/tab/</entry>
@@ -24,6 +24,7 @@
         <entry>.,'a s/^/    /</entry>
         <entry>.,'a s/^/#/</entry>
         <entry>.,'a s/row/row_in_log/</entry>
+        <entry>.,$ s/^/#/</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -66,7 +67,9 @@
       <file name="/a.dummy" timestamp="1586465831557">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/WebAppExample/DBcm.py" timestamp="1587584072441" />
+      <file name="$USER_HOME$/PycharmProjects/WebAppExample/DBcm.py" timestamp="1587677673262">
+        <mark key="'" line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/LearningBasics/Tuple.py" timestamp="1585938383371">
         <mark key="y" line="7" column="0" />
         <mark key="[" line="15" column="19" />
@@ -186,6 +189,7 @@
       <jump line="2" column="0" filename="$USER_HOME$/PycharmProjects/WebAppExample/checker.py" />
       <jump line="4" column="10" filename="$USER_HOME$/PycharmProjects/WebAppExample/checker.py" />
       <jump line="75" column="0" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/PycharmProjects/WebAppExample/DBcm.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -197,7 +201,7 @@
         <text>g</text>
       </register>
       <register name="/" type="4">
-        <text>logged_in</text>
+        <text>^</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QGFwcC5yb3V0ZSgnL2xvZ2luJykKZGVmIGRvX2xvZ2luKCkgLT4gc3RyOgogICAgc2Vzc2lvblsnbG9naW5faW4nXSA9IFRydWUKICAgIHJldHVybiAiWW91IGFyZSBsb2dnZWQgaW4iCg==</text>
@@ -239,11 +243,11 @@ values
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>logged_in</last-search>
+      <last-search>^</last-search>
       <last-offset />
-      <last-pattern>logged_in</last-pattern>
-      <last-replace>row_in_log</last-replace>
-      <last-substitute>row</last-substitute>
+      <last-pattern>^</last-pattern>
+      <last-replace>#</last-replace>
+      <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
