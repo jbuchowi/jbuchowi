@@ -15,6 +15,7 @@
         <entry>^</entry>
         <entry>try</entry>
         <entry encoding="base64">XDxVc2VEYXRhYmFzZVw+</entry>
+        <entry encoding="base64">XDxDb25uZWN0aW9uRXJyb3JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>.,$ s/^/tab/</entry>
@@ -58,23 +59,24 @@
       <file name="/Python Console" timestamp="1586206223523">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" timestamp="1587742949870">
-        <mark key="a" line="27" column="28" />
-        <mark key="'" line="37" column="13" />
-        <mark key="[" line="69" column="21" />
-        <mark key="]" line="69" column="23" />
-        <mark key="." line="69" column="22" />
-        <mark key="^" line="69" column="23" />
+      <file name="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" timestamp="1587745325489">
+        <mark key="a" line="43" column="19" />
+        <mark key="b" line="68" column="11" />
+        <mark key="'" line="48" column="19" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
+        <mark key="^" line="74" column="18" />
       </file>
       <file name="/a.dummy" timestamp="1586465831557">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/WebAppExample/DBcm.py" timestamp="1587741999129">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="16" column="21" />
-        <mark key="]" line="17" column="37" />
-        <mark key="^" line="17" column="37" />
-        <mark key="." line="17" column="36" />
+      <file name="$USER_HOME$/PycharmProjects/WebAppExample/DBcm.py" timestamp="1587744819201">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="27" column="39" />
+        <mark key="]" line="27" column="39" />
+        <mark key="^" line="30" column="36" />
+        <mark key="." line="27" column="39" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/LearningBasics/Tuple.py" timestamp="1585938383371">
         <mark key="y" line="7" column="0" />
@@ -200,54 +202,61 @@
       <jump line="62" column="24" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" />
       <jump line="72" column="4" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" />
       <jump line="78" column="15" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" />
-      <jump line="3" column="17" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" />
       <jump line="36" column="7" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" />
       <jump line="37" column="13" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" />
+      <jump line="3" column="54" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" />
+      <jump line="43" column="11" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" />
+      <jump line="66" column="11" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" />
+      <jump line="45" column="19" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" />
+      <jump line="68" column="11" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" />
+      <jump line="46" column="19" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" />
+      <jump line="71" column="8" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" />
+      <jump line="48" column="19" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAnRXJyb3InICsgc3RyKGVycikK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJ0Vycm9yOiAnICsgc3RyKGVycikK</text>
       </register>
       <register name="-" type="4">
-        <text>ConnectionError</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxVc2VEYXRhYmFzZVw+</text>
+        <text encoding="base64">XDxDb25uZWN0aW9uRXJyb3JcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAnRXJyb3InICsgc3RyKGVycikK</text>
+      <register name="0" type="4">
+        <text>(&quot;Exception&quot;, type(err).__name__, &quot;was caught, details:&quot;, str(err))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAnRXJyb3InICsgc3RyKGVycikK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJ0Vycm9yOiAnICsgc3RyKGVycikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjY29ubi5jb21taXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiRXJyb3Igd2hlbiB3b3JraW5nIHdpdGggREIiLCBzdHIoZXJyKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAnRXJyb3InICsgc3RyKGVycikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjY29ubi5jb21taXQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50Wy0xXS5hcHBlbmQocm93LnRzKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgZmkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjb250ZW50Wy0xXS5hcHBlbmQocm93LnRzKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgZmkK</text>
+      </register>
+      <register name="9" type="2">
         <text>_SQL = &quot;&quot;&quot;insert into log
 (phrase, letters, ip, browser_string, results)
 values
 (%s, %s, %s, %s, %s)&quot;&quot;&quot;</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">I2Nvbm4gPSBweW9kYmMuY29ubmVjdCgqKmRiY29uZmlnKQo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">J2RhdGFiYXNlJzogJ3ZzZWFyY2hsb2dEQicsIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -256,9 +265,9 @@ values
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxVc2VEYXRhYmFzZVw+</last-search>
+      <last-search encoding="base64">XDxDb25uZWN0aW9uRXJyb3JcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxVc2VEYXRhYmFzZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxDb25uZWN0aW9uRXJyb3JcPg==</last-pattern>
       <last-replace>#</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
