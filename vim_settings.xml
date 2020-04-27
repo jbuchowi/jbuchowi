@@ -15,8 +15,8 @@
         <entry encoding="base64">XDxDb25uZWN0aW9uRXJyb3JcPg==</entry>
         <entry>update</entry>
         <entry encoding="base64">XDxVc2VEYXRhYmFzZVw+</entry>
-        <entry encoding="base64">XDxsb2dfcmVxdWVzdFw+</entry>
         <entry>try</entry>
+        <entry encoding="base64">XDxsb2dfcmVxdWVzdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>.,$ s/^/tab/</entry>
@@ -60,13 +60,14 @@
       <file name="/Python Console" timestamp="1586206223523">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" timestamp="1588007827005">
+      <file name="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" timestamp="1588008937250">
         <mark key="a" line="85" column="22" />
         <mark key="b" line="69" column="11" />
-        <mark key="'" line="85" column="22" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="97" column="29" />
-        <mark key="." line="86" column="0" />
+        <mark key="'" line="87" column="8" />
+        <mark key="[" line="36" column="15" />
+        <mark key="]" line="36" column="20" />
+        <mark key="." line="36" column="19" />
+        <mark key="^" line="36" column="20" />
       </file>
       <file name="/a.dummy" timestamp="1586465831557">
         <mark key="[" line="0" column="0" />
@@ -198,7 +199,6 @@
       <jump line="75" column="0" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" />
       <jump line="18" column="0" filename="$USER_HOME$/PycharmProjects/WebAppExample/DBcm.py" />
       <jump line="77" column="0" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" />
       <jump line="62" column="24" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" />
       <jump line="72" column="4" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" />
       <jump line="78" column="15" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" />
@@ -217,6 +217,9 @@
       <jump line="92" column="26" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" />
       <jump line="43" column="37" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" />
       <jump line="85" column="22" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" />
+      <jump line="86" column="28" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" />
+      <jump line="87" column="8" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -228,7 +231,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>try</text>
+        <text encoding="base64">XDxsb2dfcmVxdWVzdFw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CmRlZiBsb2dfcmVxdWVzdChyZXE6ICdmbGFza19yZXF1ZXN0JywgcmVzOiBzdHIpIC0+IE5vbmU6CiAgICB0cnk6CiAgICAgICAgd2l0aCBVc2VEYXRhYmFzZShhcHAuY29uZmlnWydkYmNvbmZpZyddKSBhcyBjdXJzb3I6CiAgICAgICAgICAgIGN1cnNvci5leGVjdXRlKGFwcC5jb25maWdbJ19TUUxfaW5zZXJ0J10sIChyZXEuZm9ybVsncGhyYXNlJ10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcS5mb3JtWydsZXR0ZXJzJ10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcS5yZW1vdGVfYWRkciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVxLnVzZXJfYWdlbnQuYnJvd3NlciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVzLCkpCiAgICBleGNlcHQgQ29ubmVjdGlvbkVycm9yIGFzIGVycjoKICAgICAgICBwcmludCgiRXJyb3Igd29ya2luZyB3aXRoIERCIiwgc3RyKGVycikpCiAgICBleGNlcHQgU1FMRXJyb3IgYXMgZXJyOgogICAgICAgIHByaW50KCJFcnJvciB3b3JraW5nIHdpdGggU1FMIiwgc3RyKGVycikpCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGVycjoKICAgICAgICBwcmludCgiRXhjZXB0aW9uIiwgdHlwZShlcnIpLl9fbmFtZV9fLCAid2FzIGNhdWdodCwgZGV0YWlsczoiLCBzdHIoZXJyKSkKCg==</text>
@@ -270,12 +273,12 @@ values
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>try</last-search>
+      <last-search encoding="base64">XDxsb2dfcmVxdWVzdFw+</last-search>
       <last-offset />
-      <last-pattern>try</last-pattern>
+      <last-pattern encoding="base64">XDxsb2dfcmVxdWVzdFw+</last-pattern>
       <last-replace>#</last-replace>
       <last-substitute>^</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
