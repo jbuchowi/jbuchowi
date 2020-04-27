@@ -17,6 +17,7 @@
         <entry encoding="base64">XDxVc2VEYXRhYmFzZVw+</entry>
         <entry>try</entry>
         <entry encoding="base64">XDxsb2dfcmVxdWVzdFw+</entry>
+        <entry>log_req</entry>
       </history-search>
       <history-cmd>
         <entry>.,$ s/^/tab/</entry>
@@ -60,14 +61,14 @@
       <file name="/Python Console" timestamp="1586206223523">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" timestamp="1588008937250">
-        <mark key="a" line="85" column="22" />
-        <mark key="b" line="69" column="11" />
-        <mark key="'" line="87" column="8" />
-        <mark key="[" line="36" column="15" />
-        <mark key="]" line="36" column="20" />
-        <mark key="." line="36" column="19" />
-        <mark key="^" line="36" column="20" />
+      <file name="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" timestamp="1588010849319">
+        <mark key="a" line="92" column="0" />
+        <mark key="b" line="72" column="11" />
+        <mark key="'" line="43" column="52" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="6" column="11" />
+        <mark key="." line="6" column="10" />
+        <mark key="^" line="6" column="11" />
       </file>
       <file name="/a.dummy" timestamp="1586465831557">
         <mark key="[" line="0" column="0" />
@@ -212,7 +213,6 @@
       <jump line="48" column="19" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" />
       <jump line="76" column="0" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" />
       <jump line="5" column="27" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" />
-      <jump line="36" column="4" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" />
       <jump line="91" column="9" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" />
       <jump line="92" column="26" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" />
       <jump line="43" column="37" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" />
@@ -220,51 +220,51 @@
       <jump line="86" column="28" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" />
       <jump line="87" column="8" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" />
+      <jump line="36" column="4" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" />
+      <jump line="41" column="52" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CmRlZiBsb2dfcmVxdWVzdChyZXE6ICdmbGFza19yZXF1ZXN0JywgcmVzOiBzdHIpIC0+IE5vbmU6CiAgICB0cnk6CiAgICAgICAgd2l0aCBVc2VEYXRhYmFzZShhcHAuY29uZmlnWydkYmNvbmZpZyddKSBhcyBjdXJzb3I6CiAgICAgICAgICAgIGN1cnNvci5leGVjdXRlKGFwcC5jb25maWdbJ19TUUxfaW5zZXJ0J10sIChyZXEuZm9ybVsncGhyYXNlJ10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcS5mb3JtWydsZXR0ZXJzJ10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcS5yZW1vdGVfYWRkciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVxLnVzZXJfYWdlbnQuYnJvd3NlciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVzLCkpCiAgICBleGNlcHQgQ29ubmVjdGlvbkVycm9yIGFzIGVycjoKICAgICAgICBwcmludCgiRXJyb3Igd29ya2luZyB3aXRoIERCIiwgc3RyKGVycikpCiAgICBleGNlcHQgU1FMRXJyb3IgYXMgZXJyOgogICAgICAgIHByaW50KCJFcnJvciB3b3JraW5nIHdpdGggU1FMIiwgc3RyKGVycikpCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGVycjoKICAgICAgICBwcmludCgiRXhjZXB0aW9uIiwgdHlwZShlcnIpLl9fbmFtZV9fLCAid2FzIGNhdWdodCwgZGV0YWlsczoiLCBzdHIoZXJyKSkKCg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHdpdGggVXNlRGF0YWJhc2UoYXBwLmNvbmZpZ1snZGJjb25maWcnXSkgYXMgY3Vyc29yOgogICAgICAgICAgICAgICAgY3Vyc29yLmV4ZWN1dGUoYXBwLmNvbmZpZ1snX1NRTF9pbnNlcnQnXSwgKHJlcS5mb3JtWydwaHJhc2UnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXEuZm9ybVsnbGV0dGVycyddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcS5yZW1vdGVfYWRkciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXEudXNlcl9hZ2VudC5icm93c2VyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcywpKQogICAgICAgIGV4Y2VwdCBDb25uZWN0aW9uRXJyb3IgYXMgZXJyOgogICAgICAgICAgICBwcmludCgiRXJyb3Igd29ya2luZyB3aXRoIERCIiwgc3RyKGVycikpCiAgICAgICAgZXhjZXB0IFNRTEVycm9yIGFzIGVycjoKICAgICAgICAgICAgcHJpbnQoIkVycm9yIHdvcmtpbmcgd2l0aCBTUUwiLCBzdHIoZXJyKSkKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGVycjoKICAgICAgICAgICAgcHJpbnQoIkV4Y2VwdGlvbiIsIHR5cGUoZXJyKS5fX25hbWVfXywgIndhcyBjYXVnaHQsIGRldGFpbHM6Iiwgc3RyKGVycikpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>old2</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dfcmVxdWVzdFw+</text>
+        <text>log_req</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CmRlZiBsb2dfcmVxdWVzdChyZXE6ICdmbGFza19yZXF1ZXN0JywgcmVzOiBzdHIpIC0+IE5vbmU6CiAgICB0cnk6CiAgICAgICAgd2l0aCBVc2VEYXRhYmFzZShhcHAuY29uZmlnWydkYmNvbmZpZyddKSBhcyBjdXJzb3I6CiAgICAgICAgICAgIGN1cnNvci5leGVjdXRlKGFwcC5jb25maWdbJ19TUUxfaW5zZXJ0J10sIChyZXEuZm9ybVsncGhyYXNlJ10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcS5mb3JtWydsZXR0ZXJzJ10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcS5yZW1vdGVfYWRkciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVxLnVzZXJfYWdlbnQuYnJvd3NlciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVzLCkpCiAgICBleGNlcHQgQ29ubmVjdGlvbkVycm9yIGFzIGVycjoKICAgICAgICBwcmludCgiRXJyb3Igd29ya2luZyB3aXRoIERCIiwgc3RyKGVycikpCiAgICBleGNlcHQgU1FMRXJyb3IgYXMgZXJyOgogICAgICAgIHByaW50KCJFcnJvciB3b3JraW5nIHdpdGggU1FMIiwgc3RyKGVycikpCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGVycjoKICAgICAgICBwcmludCgiRXhjZXB0aW9uIiwgdHlwZShlcnIpLl9fbmFtZV9fLCAid2FzIGNhdWdodCwgZGV0YWlsczoiLCBzdHIoZXJyKSkKCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJ0Vycm9yOiAnICsgc3RyKGVycikK</text>
+        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHdpdGggVXNlRGF0YWJhc2UoYXBwLmNvbmZpZ1snZGJjb25maWcnXSkgYXMgY3Vyc29yOgogICAgICAgICAgICAgICAgY3Vyc29yLmV4ZWN1dGUoYXBwLmNvbmZpZ1snX1NRTF9pbnNlcnQnXSwgKHJlcS5mb3JtWydwaHJhc2UnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXEuZm9ybVsnbGV0dGVycyddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcS5yZW1vdGVfYWRkciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXEudXNlcl9hZ2VudC5icm93c2VyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcywpKQogICAgICAgIGV4Y2VwdCBDb25uZWN0aW9uRXJyb3IgYXMgZXJyOgogICAgICAgICAgICBwcmludCgiRXJyb3Igd29ya2luZyB3aXRoIERCIiwgc3RyKGVycikpCiAgICAgICAgZXhjZXB0IFNRTEVycm9yIGFzIGVycjoKICAgICAgICAgICAgcHJpbnQoIkVycm9yIHdvcmtpbmcgd2l0aCBTUUwiLCBzdHIoZXJyKSkKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGVycjoKICAgICAgICAgICAgcHJpbnQoIkV4Y2VwdGlvbiIsIHR5cGUoZXJyKS5fX25hbWVfXywgIndhcyBjYXVnaHQsIGRldGFpbHM6Iiwgc3RyKGVycikpCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiRXJyb3Igd2hlbiB3b3JraW5nIHdpdGggREIiLCBzdHIoZXJyKSkK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICBsb2dfcmVxdWVzdF9tYWluKHJlcSwgcmVzKQogICAgICAgIA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAnRXJyb3InICsgc3RyKGVycikK</text>
+      <register name="3" type="4">
+        <text encoding="base64">Z19yZXF1ZXN0X21haW4ocmVxLCByZXMpCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjY29ubi5jb21taXQoKQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">OgogICAgICAgICAgICB3aXRoIFVzZURhdGFiYXNlKGFwcC5jb25maWdbJ2RiY29uZmlnJ10pIGFzIGN1cnNvcjoKICAgICAgICAgICAgICAgIGN1cnNvci5leGVjdXRlKGFwcC5jb25maWdbJ19TUUxfaW5zZXJ0J10sIChyZXEuZm9ybVsncGhyYXNlJ10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVxLmZvcm1bJ2xldHRlcnMnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXEucmVtb3RlX2FkZHIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVxLnVzZXJfYWdlbnQuYnJvd3NlciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXMsKSkKICAgICAgICBleGNlcHQgQ29ubmVjdGlvbkVycm9yIGFzIGVycjoKICAgICAgICAgICAgcHJpbnQoIkVycm9yIHdvcmtpbmcgd2l0aCBEQiIsIHN0cihlcnIpKQogICAgICAgIGV4Y2VwdCBTUUxFcnJvciBhcyBlcnI6CiAgICAgICAgICAgIHByaW50KCJFcnJvciB3b3JraW5nIHdpdGggU1FMIiwgc3RyKGVycikpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlcnI6CiAgICAgICAgICAgIHByaW50KCJFeGNlcHRpb24iLCB0eXBlKGVycikuX19uYW1lX18sICJ3YXMgY2F1Z2h0LCBkZXRhaWxzOiIsIHN0cihlcnIpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJ0Vycm9yOiAnICsgc3RyKGVycikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiRXJyb3Igd2hlbiB3b3JraW5nIHdpdGggREIiLCBzdHIoZXJyKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50Wy0xXS5hcHBlbmQocm93LnRzKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAnRXJyb3InICsgc3RyKGVycikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgZmkK</text>
+        <text encoding="base64">ICAgICAgICAjY29ubi5jb21taXQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text>_SQL = &quot;&quot;&quot;insert into log
-(phrase, letters, ip, browser_string, results)
-values
-(%s, %s, %s, %s, %s)&quot;&quot;&quot;</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -273,12 +273,12 @@ values
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxsb2dfcmVxdWVzdFw+</last-search>
+      <last-search>log_req</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dfcmVxdWVzdFw+</last-pattern>
+      <last-pattern>log_req</last-pattern>
       <last-replace>#</last-replace>
       <last-substitute>^</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
