@@ -61,14 +61,14 @@
       <file name="/Python Console" timestamp="1586206223523">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" timestamp="1588010849319">
+      <file name="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" timestamp="1588012148537">
         <mark key="a" line="92" column="0" />
         <mark key="b" line="72" column="11" />
         <mark key="'" line="43" column="52" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="6" column="11" />
-        <mark key="." line="6" column="10" />
-        <mark key="^" line="6" column="11" />
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="40" column="8" />
+        <mark key="." line="40" column="7" />
+        <mark key="^" line="40" column="8" />
       </file>
       <file name="/a.dummy" timestamp="1586465831557">
         <mark key="[" line="0" column="0" />
@@ -227,11 +227,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHdpdGggVXNlRGF0YWJhc2UoYXBwLmNvbmZpZ1snZGJjb25maWcnXSkgYXMgY3Vyc29yOgogICAgICAgICAgICAgICAgY3Vyc29yLmV4ZWN1dGUoYXBwLmNvbmZpZ1snX1NRTF9pbnNlcnQnXSwgKHJlcS5mb3JtWydwaHJhc2UnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXEuZm9ybVsnbGV0dGVycyddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcS5yZW1vdGVfYWRkciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXEudXNlcl9hZ2VudC5icm93c2VyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcywpKQogICAgICAgIGV4Y2VwdCBDb25uZWN0aW9uRXJyb3IgYXMgZXJyOgogICAgICAgICAgICBwcmludCgiRXJyb3Igd29ya2luZyB3aXRoIERCIiwgc3RyKGVycikpCiAgICAgICAgZXhjZXB0IFNRTEVycm9yIGFzIGVycjoKICAgICAgICAgICAgcHJpbnQoIkVycm9yIHdvcmtpbmcgd2l0aCBTUUwiLCBzdHIoZXJyKSkKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGVycjoKICAgICAgICAgICAgcHJpbnQoIkV4Y2VwdGlvbiIsIHR5cGUoZXJyKS5fX25hbWVfXywgIndhcyBjYXVnaHQsIGRldGFpbHM6Iiwgc3RyKGVycikpCg==</text>
+      <register name="&quot;" type="4">
+        <text>time</text>
       </register>
       <register name="-" type="4">
-        <text>old2</text>
+        <text>time</text>
       </register>
       <register name="/" type="4">
         <text>log_req</text>
