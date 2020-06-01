@@ -108,11 +108,11 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="7" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/LearningBasics/RigipyExample.py" timestamp="1591032206350">
-        <mark key="[" line="2" column="53" />
-        <mark key="]" line="2" column="56" />
-        <mark key="^" line="2" column="56" />
-        <mark key="." line="2" column="55" />
+      <file name="$USER_HOME$/PycharmProjects/LearningBasics/RigipyExample.py" timestamp="1591034375743">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="11" column="65" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/WebAppExample/results.html" timestamp="1586204093902">
         <mark key="[" line="0" column="0" />
@@ -227,16 +227,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>hiv</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>hiv</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>log_req</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Zm9yIGVudHJ5IGluIHJlZy5yZWNfc3Via2V5cyhhc19qc29uPVRydWUpOgogICAgcHJpbnQoZW50cnkpCg==</text>
+        <text encoding="base64">Zm9yIHNrIGluIHJlZy5nZXRfa2V5KCdQcm9jcnVuIDIuMCcpLmdldF9zdWJrZXlzKCk6Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaW50KGVudHJ5KQo=</text>
