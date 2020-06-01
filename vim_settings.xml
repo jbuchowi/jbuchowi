@@ -44,6 +44,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -108,11 +111,11 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="7" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/LearningBasics/RigipyExample.py" timestamp="1591034375743">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="11" column="65" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/LearningBasics/RigipyExample.py" timestamp="1591039003335">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="14" column="17" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/WebAppExample/results.html" timestamp="1586204093902">
         <mark key="[" line="0" column="0" />
@@ -226,44 +229,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">I2ZvciBzayBpbiByZWcuZ2V0X2tleSgnU29mdHdhcmUnKS5nZXRfc3Via2V5cygpOgo=</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>wrue</text>
       </register>
       <register name="/" type="4">
         <text>log_req</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Zm9yIHNrIGluIHJlZy5nZXRfa2V5KCdQcm9jcnVuIDIuMCcpLmdldF9zdWJrZXlzKCk6Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHNrLm5hbWUsIGNvbnZlcnRfd2ludGltZShzay5oZWFkZXIubGFzdF9tb2RpZmllZCkuaXNvZm9ybWF0KCkpCiAgICBwcmludChzay5nZXRfdmFsdWVzKGFzX2pzb249RmFsc2UpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGVudHJ5KQo=</text>
+        <text encoding="base64">I2ZvciBzayBpbiByZWcuZ2V0X2tleSgnU29mdHdhcmUnKS5nZXRfc3Via2V5cygpOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Zm9yIGVudHJ5IGluIHJlZzoK</text>
+        <text encoding="base64">IyBmb3Igc2sgaW4gcmVnLmdldF9rZXkoJ1Byb2NydW4gMi4wJykuZ2V0X3N1YmtleXMoKToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQoc2V0KG15X2RpY3Qua2V5cygpKSkK</text>
+        <text encoding="base64">IyBJdGVyYXRlIG92ZXIgYSBrZXkgYW5kIGdldCBhbGwgc3Via2V5cyBhbmQgdGhlaXIgbW9kaWZpY2F0aW9uIHRpbWU6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBmb3IgZW50cnkgaW4gcmVnLnJlY19zdWJrZXlzKGFzX2pzb249VHJ1ZSk6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IyBwcmludCgicmVnIG5hbWU6ICIgKyByZWcuZ2V0X2tleSgiV09XNjQzMk5vZGUiKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHdpdGggVXNlRGF0YWJhc2UoYXBwLmNvbmZpZ1snZGJjb25maWcnXSkgYXMgY3Vyc29yOgogICAgICAgICAgICAgICAgY3Vyc29yLmV4ZWN1dGUoYXBwLmNvbmZpZ1snX1NRTF9pbnNlcnQnXSwgKHJlcS5mb3JtWydwaHJhc2UnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXEuZm9ybVsnbGV0dGVycyddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcS5yZW1vdGVfYWRkciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXEudXNlcl9hZ2VudC5icm93c2VyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcywpKQogICAgICAgIGV4Y2VwdCBDb25uZWN0aW9uRXJyb3IgYXMgZXJyOgogICAgICAgICAgICBwcmludCgiRXJyb3Igd29ya2luZyB3aXRoIERCIiwgc3RyKGVycikpCiAgICAgICAgZXhjZXB0IFNRTEVycm9yIGFzIGVycjoKICAgICAgICAgICAgcHJpbnQoIkVycm9yIHdvcmtpbmcgd2l0aCBTUUwiLCBzdHIoZXJyKSkKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGVycjoKICAgICAgICAgICAgcHJpbnQoIkV4Y2VwdGlvbiIsIHR5cGUoZXJyKS5fX25hbWVfXywgIndhcyBjYXVnaHQsIGRldGFpbHM6Iiwgc3RyKGVycikpCg==</text>
+        <text encoding="base64">IyBJdGVyYXRlIG92ZXIgYSByZWdpc3RyeSBoaXZlIHJlY3Vyc2l2ZWx5Ogo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICBsb2dfcmVxdWVzdF9tYWluKHJlcSwgcmVzKQogICAgICAgIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Zm9yIGVudHJ5IGluIHJlZy5oZWFkZXI6Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Z19yZXF1ZXN0X21haW4ocmVxLCByZXMpCg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaW50KGVudHJ5KQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">OgogICAgICAgICAgICB3aXRoIFVzZURhdGFiYXNlKGFwcC5jb25maWdbJ2RiY29uZmlnJ10pIGFzIGN1cnNvcjoKICAgICAgICAgICAgICAgIGN1cnNvci5leGVjdXRlKGFwcC5jb25maWdbJ19TUUxfaW5zZXJ0J10sIChyZXEuZm9ybVsncGhyYXNlJ10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVxLmZvcm1bJ2xldHRlcnMnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXEucmVtb3RlX2FkZHIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVxLnVzZXJfYWdlbnQuYnJvd3NlciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXMsKSkKICAgICAgICBleGNlcHQgQ29ubmVjdGlvbkVycm9yIGFzIGVycjoKICAgICAgICAgICAgcHJpbnQoIkVycm9yIHdvcmtpbmcgd2l0aCBEQiIsIHN0cihlcnIpKQogICAgICAgIGV4Y2VwdCBTUUxFcnJvciBhcyBlcnI6CiAgICAgICAgICAgIHByaW50KCJFcnJvciB3b3JraW5nIHdpdGggU1FMIiwgc3RyKGVycikpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlcnI6CiAgICAgICAgICAgIHByaW50KCJFeGNlcHRpb24iLCB0eXBlKGVycikuX19uYW1lX18sICJ3YXMgY2F1Z2h0LCBkZXRhaWxzOiIsIHN0cihlcnIpKQo=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Zm9yIGVudHJ5IGluIHJlZzoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
