@@ -18,18 +18,19 @@
         <entry encoding="base64">XDxsb2dfcmVxdWVzdFw+</entry>
         <entry>log_req</entry>
         <entry>True</entry>
-        <entry>^</entry>
         <entry encoding="base64">ICAgIA==</entry>
         <entry encoding="base64">ICA=</entry>
         <entry encoding="base64">IA==</entry>
         <entry encoding="base64">ICAg</entry>
+        <entry encoding="base64">XDx2b3dlbHNfZnJlcVw+</entry>
+        <entry>^</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry>.,$ s/^/tab/</entry>
         <entry>.,$ s/^/tab/    /</entry>
         <entry>.,$ s/^/tab//</entry>
         <entry>.,$ s/^/tab/   /</entry>
-        <entry>.,$ s/^/    /</entry>
         <entry>,'a s/^/    /</entry>
         <entry>.,'a s/^/    /</entry>
         <entry>.,'a s/^/#/</entry>
@@ -37,11 +38,13 @@
         <entry>.,$ s/^/#/</entry>
         <entry>.$ s/True/False/</entry>
         <entry>.,$ s/^/   /</entry>
-        <entry>w</entry>
         <entry>.$ s/    //</entry>
         <entry>.$ s/  //</entry>
         <entry>.$ s/ //</entry>
         <entry>.$ s/   //</entry>
+        <entry>.,$ s/^/    /</entry>
+        <entry>.,'a s/print/#print/</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -101,7 +104,8 @@
         <mark key="." line="34" column="12" />
         <mark key="^" line="34" column="13" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/LearningBasics/DictionaryExample.py" timestamp="1588171828688">
+      <file name="$USER_HOME$/PycharmProjects/LearningBasics/DictionaryExample.py" timestamp="1591103838161">
+        <mark key="'" line="27" column="38" />
         <mark key="[" line="39" column="24" />
         <mark key="]" line="39" column="21" />
         <mark key="^" line="39" column="21" />
@@ -154,6 +158,14 @@
         <mark key="^" line="18" column="76" />
         <mark key="." line="18" column="59" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/LearningBasics/RegTomcaCLSUpdate.py" timestamp="1591107939483">
+        <mark key="a" line="35" column="0" />
+        <mark key="'" line="23" column="9" />
+        <mark key="[" line="1" column="40" />
+        <mark key="]" line="51" column="6" />
+        <mark key="." line="51" column="6" />
+        <mark key="^" line="51" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/WebAppExample/entry.html" timestamp="1586203984619">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="9" column="43" />
@@ -173,12 +185,6 @@
         <mark key="]" line="3" column="13" />
         <mark key="^" line="3" column="13" />
         <mark key="." line="3" column="12" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/LearningBasics/Classes.py" timestamp="1585947582249">
-        <mark key="[" line="17" column="16" />
-        <mark key="]" line="17" column="17" />
-        <mark key="^" line="19" column="25" />
-        <mark key="." line="17" column="17" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/WebAppExample/templates/viewlog.html" timestamp="1586378691610">
         <mark key="a" line="14" column="7" />
@@ -242,61 +248,66 @@
       <jump line="43" column="19" filename="$USER_HOME$/PycharmProjects/LearningBasics/RegiTomcaCLSUpdate.py" />
       <jump line="33" column="19" filename="$USER_HOME$/PycharmProjects/LearningBasics/RegiTomcaCLSUpdate.py" />
       <jump line="34" column="7" filename="$USER_HOME$/PycharmProjects/LearningBasics/RegiTomcaCLSUpdate.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/PycharmProjects/LearningBasics/RegTomcaCLSUpdate.py" />
+      <jump line="27" column="38" filename="$USER_HOME$/PycharmProjects/LearningBasics/DictionaryExample.py" />
+      <jump line="50" column="3" filename="$USER_HOME$/PycharmProjects/LearningBasics/RegTomcaCLSUpdate.py" />
+      <jump line="57" column="26" filename="$USER_HOME$/PycharmProjects/LearningBasics/RegTomcaCLSUpdate.py" />
+      <jump line="19" column="9" filename="$USER_HOME$/PycharmProjects/LearningBasics/RegTomcaCLSUpdate.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">ICAg</text>
+        <text>print</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImtleTogIiArIGtleSkK</text>
+      <register name="0" type="4">
+        <text encoding="base64">cmVhZFRvbWNhdENMU1JlZ3Mg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgcHJpbnQoJzQtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjcHJpbnQoJ3ZhbHVlOiAnLCB2YWx1ZS52YWx1ZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoa2V5KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjcHJpbnQoJ3ZhbHVlIGlzIGNvcnJ1cHRlZDogJywgdmFsdWUuaXNfY29ycnVwdGVkKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiMgR2V0IHZhbHVlcyBmcm9tIGEgc3BlY2lmaWMgcmVnaXN0cnkga2V5OgojIHJlZy5nZXRfa2V5KCdTb2Z0d2FyZVxNaWNyb3NvZnRcSW50ZXJuZXQgRXhwbG9yZXJcQnJvd3NlckVtdWxhdGlvbicpLmdldF92YWx1ZXMoYXNfanNvbj1UcnVlKQoKIyBVc2UgcGx1Z2luczoKIyBmcm9tIHJlZ2lweS5wbHVnaW5zLm50dXNlci5udHVzZXJfcGVyc2lzdGVuY2UgaW1wb3J0IE5UVXNlclBlcnNpc3RlbmNlUGx1Z2luCiMgTlRVc2VyUGVyc2lzdGVuY2VQbHVnaW4ocmVnLCBhc19qc29uPVRydWUpLnJ1bigpCiMKIyMgUnVuIGFsbCBzdXBwb3J0ZWQgcGx1Z2lucyBvbiBhIHJlZ2lzdHJ5IGhpdmU6CiMgcnVuX3JlbGV2YW50X3BsdWdpbnMocmVnLCBhc19qc29uPVRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjcHJpbnQoJ3ZhbHVlIHR5cGU6ICcsIHZhbHVlLnZhbHVlX3R5cGUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGVudHJ5KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjcHJpbnQoJ3ZhbHVlIG5hbWU6ICcsIHZhbHVlLm5hbWUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Zm9yIGVudHJ5IGluIHJlZy5yZWN1cnNlX3N1YmtleXMoYXNfanNvbj1UcnVlKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICNmb3IgdmFsdWUgaW4gdmFsdWVzOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2ZvciBzayBpbiByZWcuZ2V0X2tleSgnU29mdHdhcmUnKS5nZXRfc3Via2V5cygpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICNwcmludCgia2V5MjogIiArIGtleTIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBmb3Igc2sgaW4gcmVnLmdldF9rZXkoJ1Byb2NydW4gMi4wJykuZ2V0X3N1YmtleXMoKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICNwcmludCgnMy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLScpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBJdGVyYXRlIG92ZXIgYSBrZXkgYW5kIGdldCBhbGwgc3Via2V5cyBhbmQgdGhlaXIgbW9kaWZpY2F0aW9uIHRpbWU6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBmb3IgZW50cnkgaW4gcmVnLnJlY19zdWJrZXlzKGFzX2pzb249VHJ1ZSk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICNwcmludCgndmFsdWU6ICcsIHZhbHVlLnZhbHVlKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>.$ s/   //</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">ICAg</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern encoding="base64">ICAg</last-pattern>
-      <last-replace />
-      <last-substitute encoding="base64">ICAg</last-substitute>
+      <last-pattern>print</last-pattern>
+      <last-replace>#print</last-replace>
+      <last-substitute>print</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
