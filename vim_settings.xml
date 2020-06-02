@@ -72,7 +72,7 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1585948084751">
+      <file name="/Dummy.txt" timestamp="1591111300249">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1586206223523">
@@ -158,13 +158,13 @@
         <mark key="^" line="18" column="76" />
         <mark key="." line="18" column="59" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/LearningBasics/RegTomcaCLSUpdate.py" timestamp="1591107939483">
-        <mark key="a" line="35" column="0" />
-        <mark key="'" line="23" column="9" />
-        <mark key="[" line="1" column="40" />
-        <mark key="]" line="51" column="6" />
-        <mark key="." line="51" column="6" />
-        <mark key="^" line="51" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/LearningBasics/RegTomcaCLSUpdate.py" timestamp="1591108372680">
+        <mark key="a" line="34" column="0" />
+        <mark key="'" line="22" column="9" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="1" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/WebAppExample/entry.html" timestamp="1586203984619">
         <mark key="[" line="0" column="0" />
@@ -258,10 +258,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -270,31 +270,31 @@
         <text encoding="base64">cmVhZFRvbWNhdENMU1JlZ3Mg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjcHJpbnQoJ3ZhbHVlOiAnLCB2YWx1ZS52YWx1ZSkK</text>
+        <text encoding="base64">aW1wb3J0IHdpbnJlZwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjcHJpbnQoJ3ZhbHVlIGlzIGNvcnJ1cHRlZDogJywgdmFsdWUuaXNfY29ycnVwdGVkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjcHJpbnQoJ3ZhbHVlOiAnLCB2YWx1ZS52YWx1ZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjcHJpbnQoJ3ZhbHVlIHR5cGU6ICcsIHZhbHVlLnZhbHVlX3R5cGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjcHJpbnQoJ3ZhbHVlIGlzIGNvcnJ1cHRlZDogJywgdmFsdWUuaXNfY29ycnVwdGVkKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjcHJpbnQoJ3ZhbHVlIG5hbWU6ICcsIHZhbHVlLm5hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjcHJpbnQoJ3ZhbHVlIHR5cGU6ICcsIHZhbHVlLnZhbHVlX3R5cGUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICNmb3IgdmFsdWUgaW4gdmFsdWVzOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjcHJpbnQoJ3ZhbHVlIG5hbWU6ICcsIHZhbHVlLm5hbWUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICNwcmludCgia2V5MjogIiArIGtleTIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICNmb3IgdmFsdWUgaW4gdmFsdWVzOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICNwcmludCgnMy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLScpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICNwcmludCgia2V5MjogIiArIGtleTIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICNwcmludCgnMy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLScpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICNwcmludCgndmFsdWU6ICcsIHZhbHVlLnZhbHVlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
