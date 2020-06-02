@@ -11,13 +11,18 @@
         <entry>view</entry>
         <entry encoding="base64">XDxsb2dnZWRfaW5cPg==</entry>
         <entry>logged_in</entry>
-        <entry>^</entry>
         <entry encoding="base64">XDxDb25uZWN0aW9uRXJyb3JcPg==</entry>
         <entry>update</entry>
         <entry encoding="base64">XDxVc2VEYXRhYmFzZVw+</entry>
         <entry>try</entry>
         <entry encoding="base64">XDxsb2dfcmVxdWVzdFw+</entry>
         <entry>log_req</entry>
+        <entry>True</entry>
+        <entry>^</entry>
+        <entry encoding="base64">ICAgIA==</entry>
+        <entry encoding="base64">ICA=</entry>
+        <entry encoding="base64">IA==</entry>
+        <entry encoding="base64">ICAg</entry>
       </history-search>
       <history-cmd>
         <entry>.,$ s/^/tab/</entry>
@@ -30,7 +35,13 @@
         <entry>.,'a s/^/#/</entry>
         <entry>.,'a s/row/row_in_log/</entry>
         <entry>.,$ s/^/#/</entry>
+        <entry>.$ s/True/False/</entry>
+        <entry>.,$ s/^/   /</entry>
         <entry>w</entry>
+        <entry>.$ s/    //</entry>
+        <entry>.$ s/  //</entry>
+        <entry>.$ s/ //</entry>
+        <entry>.$ s/   //</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -83,6 +94,13 @@
         <mark key="^" line="30" column="36" />
         <mark key="." line="27" column="39" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/LearningBasics/RegiTomcaCLSUpdate.py" timestamp="1591043430568">
+        <mark key="'" line="34" column="7" />
+        <mark key="[" line="34" column="13" />
+        <mark key="]" line="34" column="13" />
+        <mark key="." line="34" column="12" />
+        <mark key="^" line="34" column="13" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/LearningBasics/DictionaryExample.py" timestamp="1588171828688">
         <mark key="[" line="39" column="24" />
         <mark key="]" line="39" column="21" />
@@ -123,7 +141,7 @@
         <mark key="^" line="11" column="13" />
         <mark key="." line="11" column="13" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/LearningBasics/Comprehension.py" timestamp="1588173194249">
+      <file name="$USER_HOME$/PycharmProjects/LearningBasics/Comprehension.py" timestamp="1591041338948">
         <mark key="[" line="56" column="18" />
         <mark key="]" line="55" column="18" />
         <mark key="^" line="55" column="18" />
@@ -141,12 +159,6 @@
         <mark key="]" line="9" column="43" />
         <mark key="^" line="9" column="43" />
         <mark key="." line="9" column="43" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/LearningBasics/Functions.py" timestamp="1585947445883">
-        <mark key="[" line="8" column="22" />
-        <mark key="]" line="6" column="17" />
-        <mark key="^" line="6" column="17" />
-        <mark key="." line="6" column="17" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/WebAppExample/setup.py" timestamp="1586185183194">
         <mark key="[" line="4" column="16" />
@@ -225,61 +237,66 @@
       <jump line="35" column="0" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" />
       <jump line="36" column="4" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" />
       <jump line="41" column="52" filename="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" />
+      <jump line="25" column="54" filename="$USER_HOME$/PycharmProjects/LearningBasics/RegiTomcaCLSUpdate.py" />
+      <jump line="17" column="24" filename="$USER_HOME$/PycharmProjects/LearningBasics/RegiTomcaCLSUpdate.py" />
+      <jump line="43" column="19" filename="$USER_HOME$/PycharmProjects/LearningBasics/RegiTomcaCLSUpdate.py" />
+      <jump line="33" column="19" filename="$USER_HOME$/PycharmProjects/LearningBasics/RegiTomcaCLSUpdate.py" />
+      <jump line="34" column="7" filename="$USER_HOME$/PycharmProjects/LearningBasics/RegiTomcaCLSUpdate.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">I2ZvciBzayBpbiByZWcuZ2V0X2tleSgnU29mdHdhcmUnKS5nZXRfc3Via2V5cygpOgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>wrue</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>log_req</text>
+        <text encoding="base64">ICAg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNrLm5hbWUsIGNvbnZlcnRfd2ludGltZShzay5oZWFkZXIubGFzdF9tb2RpZmllZCkuaXNvZm9ybWF0KCkpCiAgICBwcmludChzay5nZXRfdmFsdWVzKGFzX2pzb249RmFsc2UpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImtleTogIiArIGtleSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2ZvciBzayBpbiByZWcuZ2V0X2tleSgnU29mdHdhcmUnKS5nZXRfc3Via2V5cygpOgo=</text>
+        <text encoding="base64">ICAgcHJpbnQoJzQtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBmb3Igc2sgaW4gcmVnLmdldF9rZXkoJ1Byb2NydW4gMi4wJykuZ2V0X3N1YmtleXMoKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoa2V5KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBJdGVyYXRlIG92ZXIgYSBrZXkgYW5kIGdldCBhbGwgc3Via2V5cyBhbmQgdGhlaXIgbW9kaWZpY2F0aW9uIHRpbWU6Cg==</text>
+        <text encoding="base64">CiMgR2V0IHZhbHVlcyBmcm9tIGEgc3BlY2lmaWMgcmVnaXN0cnkga2V5OgojIHJlZy5nZXRfa2V5KCdTb2Z0d2FyZVxNaWNyb3NvZnRcSW50ZXJuZXQgRXhwbG9yZXJcQnJvd3NlckVtdWxhdGlvbicpLmdldF92YWx1ZXMoYXNfanNvbj1UcnVlKQoKIyBVc2UgcGx1Z2luczoKIyBmcm9tIHJlZ2lweS5wbHVnaW5zLm50dXNlci5udHVzZXJfcGVyc2lzdGVuY2UgaW1wb3J0IE5UVXNlclBlcnNpc3RlbmNlUGx1Z2luCiMgTlRVc2VyUGVyc2lzdGVuY2VQbHVnaW4ocmVnLCBhc19qc29uPVRydWUpLnJ1bigpCiMKIyMgUnVuIGFsbCBzdXBwb3J0ZWQgcGx1Z2lucyBvbiBhIHJlZ2lzdHJ5IGhpdmU6CiMgcnVuX3JlbGV2YW50X3BsdWdpbnMocmVnLCBhc19qc29uPVRydWUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBmb3IgZW50cnkgaW4gcmVnLnJlY19zdWJrZXlzKGFzX2pzb249VHJ1ZSk6Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyBwcmludCgicmVnIG5hbWU6ICIgKyByZWcuZ2V0X2tleSgiV09XNjQzMk5vZGUiKSkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyBJdGVyYXRlIG92ZXIgYSByZWdpc3RyeSBoaXZlIHJlY3Vyc2l2ZWx5Ogo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Zm9yIGVudHJ5IGluIHJlZy5oZWFkZXI6Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIHByaW50KGVudHJ5KQo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Zm9yIGVudHJ5IGluIHJlZy5yZWN1cnNlX3N1YmtleXMoYXNfanNvbj1UcnVlKToK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">I2ZvciBzayBpbiByZWcuZ2V0X2tleSgnU29mdHdhcmUnKS5nZXRfc3Via2V5cygpOgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IyBmb3Igc2sgaW4gcmVnLmdldF9rZXkoJ1Byb2NydW4gMi4wJykuZ2V0X3N1YmtleXMoKToK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">IyBJdGVyYXRlIG92ZXIgYSBrZXkgYW5kIGdldCBhbGwgc3Via2V5cyBhbmQgdGhlaXIgbW9kaWZpY2F0aW9uIHRpbWU6Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Zm9yIGVudHJ5IGluIHJlZzoK</text>
+        <text encoding="base64">IyBmb3IgZW50cnkgaW4gcmVnLnJlY19zdWJrZXlzKGFzX2pzb249VHJ1ZSk6Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>.$ s/   //</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>log_req</last-search>
+      <last-search encoding="base64">ICAg</last-search>
       <last-offset />
-      <last-pattern>log_req</last-pattern>
-      <last-replace>#</last-replace>
-      <last-substitute>^</last-substitute>
+      <last-pattern encoding="base64">ICAg</last-pattern>
+      <last-replace />
+      <last-substitute encoding="base64">ICAg</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
