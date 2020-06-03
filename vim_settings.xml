@@ -73,7 +73,7 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591195253395">
+      <file name="/Dummy.txt" timestamp="1591197035590">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1586206223523">
@@ -156,11 +156,11 @@
         <mark key="." line="75" column="19" />
         <mark key="^" line="75" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/LearningBasics/CmdArgsExample.py" timestamp="1591195161638">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="22" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/LearningBasics/CmdArgsExample.py" timestamp="1591196138195">
+        <mark key="[" line="27" column="3" />
+        <mark key="]" line="27" column="3" />
+        <mark key="." line="27" column="3" />
+        <mark key="^" line="6" column="15" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/WebAppExample/entry.html" timestamp="1586203984619">
         <mark key="[" line="0" column="0" />
@@ -168,11 +168,8 @@
         <mark key="^" line="9" column="43" />
         <mark key="." line="9" column="43" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/WebAppExample/setup.py" timestamp="1586185183194">
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/LearningBasics/CmdArgsExample2.py" timestamp="1591196916799">
+        <mark key="[" line="0" column="15" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4web.py" timestamp="1587569796111">
         <mark key="a" line="76" column="1" />
@@ -256,7 +253,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CnJlZ0NMU0RpYw==</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
@@ -265,7 +262,7 @@
         <text encoding="base64">XDxyZWFkX3RvbWNhdF9jbHNfcmVnc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJpbiByZXBsYWNlMjoiLCB2YWx1ZV9wYXJhbS52YWx1ZSkK</text>
+        <text encoding="base64">ICAgbWFpbihzeXMuYXJndlsxOl0p</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">CnJlZ0NMU0RpYw==</text>
