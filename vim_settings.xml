@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>row</entry>
         <entry encoding="base64">XDwoXD4=</entry>
         <entry>view</entry>
         <entry encoding="base64">XDxsb2dnZWRfaW5cPg==</entry>
@@ -25,6 +24,7 @@
         <entry>print</entry>
         <entry>^</entry>
         <entry encoding="base64">XDxyZWFkX3RvbWNhdF9jbHNfcmVnc1w+</entry>
+        <entry>pprint</entry>
       </history-search>
       <history-cmd>
         <entry>.,$ s/^/tab/</entry>
@@ -61,6 +61,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
@@ -150,12 +153,13 @@
         <mark key="^" line="18" column="76" />
         <mark key="." line="18" column="59" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/LearningBasics/RegTomcaCLSUpdate.py" timestamp="1591212731170">
-        <mark key="'" line="4" column="9" />
-        <mark key="[" line="83" column="8" />
-        <mark key="]" line="83" column="14" />
-        <mark key="." line="83" column="13" />
-        <mark key="^" line="83" column="14" />
+      <file name="$USER_HOME$/PycharmProjects/LearningBasics/RegTomcaCLSUpdate.py" timestamp="1591213284183">
+        <mark key="a" line="71" column="41" />
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="71" column="89" />
+        <mark key="]" line="71" column="89" />
+        <mark key="." line="71" column="89" />
+        <mark key="^" line="85" column="5" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/LearningBasics/CmdArgsExample.py" timestamp="1591196138195">
         <mark key="[" line="27" column="3" />
@@ -258,21 +262,23 @@
       <jump line="1" column="23" filename="$USER_HOME$/PycharmProjects/LearningBasics/RegTomcaCLSUpdate.py" />
       <jump line="84" column="48" filename="$USER_HOME$/PycharmProjects/LearningBasics/RegTomcaCLSUpdate.py" />
       <jump line="4" column="9" filename="$USER_HOME$/PycharmProjects/LearningBasics/RegTomcaCLSUpdate.py" />
+      <jump line="71" column="41" filename="$USER_HOME$/PycharmProjects/LearningBasics/RegTomcaCLSUpdate.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/PycharmProjects/LearningBasics/RegTomcaCLSUpdate.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWFkX3RvbWNhdF9jbHNfcmVnc1w+</text>
+        <text>pprint</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">cHJpbnQoJ3BhdGgxOicsIHBhdGgpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">dG9tY2F0Q0xTS2V5cyA=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZWxzZToK</text>
@@ -308,12 +314,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxyZWFkX3RvbWNhdF9jbHNfcmVnc1w+</last-search>
+      <last-search>pprint</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWFkX3RvbWNhdF9jbHNfcmVnc1w+</last-pattern>
+      <last-pattern>pprint</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>^</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
