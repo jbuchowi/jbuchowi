@@ -73,7 +73,7 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591209355225">
+      <file name="/Dummy.txt" timestamp="1591210190670">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1586206223523">
@@ -150,12 +150,12 @@
         <mark key="^" line="18" column="76" />
         <mark key="." line="18" column="59" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/LearningBasics/RegTomcaCLSUpdate.py" timestamp="1591208806108">
+      <file name="$USER_HOME$/PycharmProjects/LearningBasics/RegTomcaCLSUpdate.py" timestamp="1591209667290">
         <mark key="'" line="4" column="9" />
-        <mark key="[" line="74" column="38" />
-        <mark key="]" line="74" column="43" />
-        <mark key="." line="74" column="42" />
-        <mark key="^" line="74" column="43" />
+        <mark key="[" line="72" column="37" />
+        <mark key="]" line="74" column="82" />
+        <mark key="." line="74" column="81" />
+        <mark key="^" line="74" column="82" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/LearningBasics/CmdArgsExample.py" timestamp="1591196138195">
         <mark key="[" line="27" column="3" />
@@ -263,10 +263,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, required=True</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, required=True</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWFkX3RvbWNhdF9jbHNfcmVnc1w+</text>
