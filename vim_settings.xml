@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>close</entry>
         <entry>row</entry>
         <entry encoding="base64">XDwoXD4=</entry>
         <entry>view</entry>
@@ -23,8 +22,9 @@
         <entry encoding="base64">IA==</entry>
         <entry encoding="base64">ICAg</entry>
         <entry encoding="base64">XDx2b3dlbHNfZnJlcVw+</entry>
-        <entry>^</entry>
         <entry>print</entry>
+        <entry>^</entry>
+        <entry encoding="base64">XDxyZWFkX3RvbWNhdF9jbHNfcmVnc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>.,$ s/^/tab/</entry>
@@ -32,7 +32,6 @@
         <entry>.,$ s/^/tab//</entry>
         <entry>.,$ s/^/tab/   /</entry>
         <entry>,'a s/^/    /</entry>
-        <entry>.,'a s/^/    /</entry>
         <entry>.,'a s/^/#/</entry>
         <entry>.,'a s/row/row_in_log/</entry>
         <entry>.,$ s/^/#/</entry>
@@ -44,6 +43,8 @@
         <entry>.$ s/   //</entry>
         <entry>.,$ s/^/    /</entry>
         <entry>.,'a s/print/#print/</entry>
+        <entry>53</entry>
+        <entry>.,'a s/^/    /</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -158,13 +159,11 @@
         <mark key="^" line="18" column="76" />
         <mark key="." line="18" column="59" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/LearningBasics/RegTomcaCLSUpdate.py" timestamp="1591108372680">
-        <mark key="a" line="34" column="0" />
-        <mark key="'" line="22" column="9" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="1" />
+      <file name="$USER_HOME$/PycharmProjects/LearningBasics/RegTomcaCLSUpdate.py" timestamp="1591193605496">
+        <mark key="[" line="71" column="28" />
+        <mark key="]" line="71" column="4" />
+        <mark key="." line="71" column="3" />
+        <mark key="^" line="71" column="4" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/WebAppExample/entry.html" timestamp="1586203984619">
         <mark key="[" line="0" column="0" />
@@ -253,48 +252,50 @@
       <jump line="50" column="3" filename="$USER_HOME$/PycharmProjects/LearningBasics/RegTomcaCLSUpdate.py" />
       <jump line="57" column="26" filename="$USER_HOME$/PycharmProjects/LearningBasics/RegTomcaCLSUpdate.py" />
       <jump line="19" column="9" filename="$USER_HOME$/PycharmProjects/LearningBasics/RegTomcaCLSUpdate.py" />
+      <jump line="52" column="0" filename="$USER_HOME$/PycharmProjects/LearningBasics/RegTomcaCLSUpdate.py" />
+      <jump line="61" column="33" filename="$USER_HOME$/PycharmProjects/LearningBasics/RegTomcaCLSUpdate.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text encoding="base64">CnJlZ0NMU0RpYw==</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text encoding="base64">XDxyZWFkX3RvbWNhdF9jbHNfcmVnc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">cmVhZFRvbWNhdENMU1JlZ3Mg</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJpbiByZXBsYWNlMjoiLCB2YWx1ZV9wYXJhbS52YWx1ZSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHdpbnJlZwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CnJlZ0NMU0RpYw==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjcHJpbnQoJ3ZhbHVlOiAnLCB2YWx1ZS52YWx1ZSkK</text>
+        <text encoding="base64">I3ByaW50KCJ3aW5yZWcuUkVHX1NaOiAiLCB3aW5yZWcuUkVHX1NaKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjcHJpbnQoJ3ZhbHVlIGlzIGNvcnJ1cHRlZDogJywgdmFsdWUuaXNfY29ycnVwdGVkKQo=</text>
+        <text encoding="base64">ZnJvbSByZWdpcHkgaW1wb3J0IGNvbnZlcnRfd2ludGltZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjcHJpbnQoJ3ZhbHVlIHR5cGU6ICcsIHZhbHVlLnZhbHVlX3R5cGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJpbiByZXBsYWNlMzoiLCB2YWx1ZV9wYXJhbS52YWx1ZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjcHJpbnQoJ3ZhbHVlIG5hbWU6ICcsIHZhbHVlLm5hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJpbiByZXBsYWNlMjoiLCB2YWx1ZV9wYXJhbS52YWx1ZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICNmb3IgdmFsdWUgaW4gdmFsdWVzOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImluIHJlcGxhY2UxOiIsIHZhbHVlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICNwcmludCgia2V5MjogIiArIGtleTIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInR5cGUiLCB0eXBlKHZhbHVlKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICNwcmludCgnMy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLScpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgI25ld192YWx1ZS52YWx1ZSA9IHZhbHVlX3BhcmFtLnZhbHVlLnJlcGxhY2Uob3JpZ1NlcnZlck5hbWUsIG5ld1NlcnZlck5hbWUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgI25ld192YWx1ZS5jb3JydXB0ZWQgPSB2YWx1ZV9wYXJhbS5jdXJydXB0ZWQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -303,12 +304,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>print</last-search>
+      <last-search encoding="base64">XDxyZWFkX3RvbWNhdF9jbHNfcmVnc1w+</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
-      <last-replace>#print</last-replace>
-      <last-substitute>print</last-substitute>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxyZWFkX3RvbWNhdF9jbHNfcmVnc1w+</last-pattern>
+      <last-replace encoding="base64">ICAgIA==</last-replace>
+      <last-substitute>^</last-substitute>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
