@@ -73,7 +73,7 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591212074686">
+      <file name="/Dummy.txt" timestamp="1591212757074">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1586206223523">
@@ -150,12 +150,12 @@
         <mark key="^" line="18" column="76" />
         <mark key="." line="18" column="59" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/LearningBasics/RegTomcaCLSUpdate.py" timestamp="1591212049007">
+      <file name="$USER_HOME$/PycharmProjects/LearningBasics/RegTomcaCLSUpdate.py" timestamp="1591212731170">
         <mark key="'" line="4" column="9" />
-        <mark key="[" line="94" column="13" />
-        <mark key="]" line="94" column="14" />
-        <mark key="." line="94" column="14" />
-        <mark key="^" line="72" column="97" />
+        <mark key="[" line="83" column="8" />
+        <mark key="]" line="83" column="14" />
+        <mark key="." line="83" column="13" />
+        <mark key="^" line="83" column="14" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/LearningBasics/CmdArgsExample.py" timestamp="1591196138195">
         <mark key="[" line="27" column="3" />
@@ -169,11 +169,11 @@
         <mark key="^" line="9" column="43" />
         <mark key="." line="9" column="43" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/LearningBasics/CmdArgsExample2.py" timestamp="1591209334262">
-        <mark key="[" line="5" column="55" />
-        <mark key="]" line="5" column="55" />
-        <mark key="." line="5" column="55" />
-        <mark key="^" line="5" column="25" />
+      <file name="$USER_HOME$/PycharmProjects/LearningBasics/CmdArgsExample2.py" timestamp="1591212679540">
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="9" column="16" />
+        <mark key="." line="9" column="16" />
+        <mark key="^" line="9" column="19" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4web.py" timestamp="1587569796111">
         <mark key="a" line="76" column="1" />
@@ -263,16 +263,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Updates</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>Updates</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWFkX3RvbWNhdF9jbHNfcmVnc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlZ0lucHV0RmlsZU5hbWUgPSAgcGF0aCArICcvJyArIHJlZ0lucHV0RmlsZU5hbWUK</text>
+        <text encoding="base64">cHJpbnQoJ3BhdGgxOicsIHBhdGgpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZWxzZToK</text>
