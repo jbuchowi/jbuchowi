@@ -79,7 +79,7 @@
       <file name="/Dummy.txt" timestamp="1591213654334">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1599768855992">
+      <file name="/Python Console" timestamp="1599771317214">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" timestamp="1588012148537">
@@ -107,6 +107,9 @@
         <mark key="]" line="34" column="13" />
         <mark key="." line="34" column="12" />
         <mark key="^" line="34" column="13" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/LearningBasics/venv/nltkExample.py" timestamp="1599771475951">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/LearningBasics/DictionaryExample.py" timestamp="1591103838161">
         <mark key="'" line="27" column="38" />
@@ -145,13 +148,6 @@
         <mark key="]" line="55" column="18" />
         <mark key="^" line="55" column="18" />
         <mark key="." line="55" column="17" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/WebAppExample/hello_flask.py" timestamp="1586197109217">
-        <mark key="'" line="13" column="53" />
-        <mark key="[" line="18" column="58" />
-        <mark key="]" line="18" column="59" />
-        <mark key="^" line="18" column="76" />
-        <mark key="." line="18" column="59" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/LearningBasics/RegTomcaCLSUpdate.py" timestamp="1591213949547">
         <mark key="a" line="72" column="41" />
