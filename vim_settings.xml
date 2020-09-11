@@ -170,12 +170,6 @@
         <mark key="." line="27" column="3" />
         <mark key="^" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/WebAppExample/entry.html" timestamp="1586203984619">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="9" column="43" />
-        <mark key="^" line="9" column="43" />
-        <mark key="." line="9" column="43" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/LearningBasics/CmdArgsExample2.py" timestamp="1591212679540">
         <mark key="[" line="9" column="15" />
         <mark key="]" line="9" column="16" />
@@ -189,6 +183,9 @@
         <mark key="]" line="3" column="13" />
         <mark key="^" line="3" column="13" />
         <mark key="." line="3" column="12" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/LearningBasics/NLTKExample2.py" timestamp="1599857686937">
+        <mark key="[" line="2" column="48" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/WebAppExample/templates/viewlog.html" timestamp="1586378691610">
         <mark key="a" line="14" column="7" />
