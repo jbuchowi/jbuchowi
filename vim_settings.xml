@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDwoXD4=</entry>
         <entry>view</entry>
         <entry encoding="base64">XDxsb2dnZWRfaW5cPg==</entry>
         <entry>logged_in</entry>
@@ -25,6 +24,7 @@
         <entry>^</entry>
         <entry encoding="base64">XDxyZWFkX3RvbWNhdF9jbHNfcmVnc1w+</entry>
         <entry>pprint</entry>
+        <entry encoding="base64">XDxweXRob25lclw+</entry>
       </history-search>
       <history-cmd>
         <entry>.,$ s/^/tab/</entry>
@@ -79,8 +79,11 @@
       <file name="/Dummy.txt" timestamp="1591213654334">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1599771317214">
-        <mark key="[" line="0" column="0" />
+      <file name="/Python Console" timestamp="1599773713242">
+        <mark key="[" line="0" column="34" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/WebAppExample/vsearch4webWithDB.py" timestamp="1588012148537">
         <mark key="a" line="92" column="0" />
@@ -108,8 +111,12 @@
         <mark key="." line="34" column="12" />
         <mark key="^" line="34" column="13" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/LearningBasics/venv/nltkExample.py" timestamp="1599771475951">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/LearningBasics/venv/nltkExample.py" timestamp="1599856542837">
+        <mark key="'" line="14" column="40" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="1" />
+        <mark key="^" line="10" column="1" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/LearningBasics/DictionaryExample.py" timestamp="1591103838161">
         <mark key="'" line="27" column="38" />
@@ -260,21 +267,22 @@
       <jump line="4" column="9" filename="$USER_HOME$/PycharmProjects/LearningBasics/RegTomcaCLSUpdate.py" />
       <jump line="71" column="41" filename="$USER_HOME$/PycharmProjects/LearningBasics/RegTomcaCLSUpdate.py" />
       <jump line="10" column="0" filename="$USER_HOME$/PycharmProjects/LearningBasics/RegTomcaCLSUpdate.py" />
+      <jump line="14" column="40" filename="$USER_HOME$/PycharmProjects/LearningBasics/venv/nltkExample.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>how are you doing today</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>how are you doing today</text>
       </register>
       <register name="/" type="4">
-        <text>pprint</text>
+        <text encoding="base64">XDxweXRob25lclw+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">dG9tY2F0Q0xTS2V5cyA=</text>
+        <text encoding="base64">aG93IGFyZSB5b3UgZG9pbmcgdG9kYXk/Jywg</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZWxzZToK</text>
@@ -310,12 +318,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>pprint</last-search>
+      <last-search encoding="base64">XDxweXRob25lclw+</last-search>
       <last-offset />
-      <last-pattern>pprint</last-pattern>
+      <last-pattern encoding="base64">XDxweXRob25lclw+</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>^</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
