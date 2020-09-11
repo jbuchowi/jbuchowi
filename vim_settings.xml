@@ -184,8 +184,11 @@
         <mark key="^" line="3" column="13" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/LearningBasics/NLTKExample2.py" timestamp="1599857686937">
-        <mark key="[" line="2" column="48" />
+      <file name="$USER_HOME$/PycharmProjects/LearningBasics/NLTKExample2.py" timestamp="1599859160673">
+        <mark key="[" line="25" column="12" />
+        <mark key="]" line="25" column="12" />
+        <mark key="." line="25" column="12" />
+        <mark key="^" line="25" column="40" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/WebAppExample/templates/viewlog.html" timestamp="1586378691610">
         <mark key="a" line="14" column="7" />
@@ -270,10 +273,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>how are you doing today</text>
+        <text>custom_sent_tokenizer</text>
       </register>
       <register name="-" type="4">
-        <text>how are you doing today</text>
+        <text>custom_sent_tokenizer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxweXRob25lclw+</text>
